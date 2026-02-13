@@ -54,7 +54,7 @@
 
 .why-header {
     text-align: center;
-    margin-bottom: 4rem;
+    margin-bottom: 2.5rem;
 }
 
 .why-header .section-subtitle {
@@ -69,7 +69,7 @@
 
 .value-card {
     position: relative;
-    padding: 2rem;
+    padding: 1.5rem;
     background: rgba(30, 30, 30, 0.5);
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 20px;
@@ -108,24 +108,24 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 70px;
-    height: 70px;
+    width: 60px;
+    height: 60px;
     background: rgba(147, 51, 234, 0.1);
     border-radius: 16px;
-    margin-bottom: 1.25rem;
+    margin-bottom: 1rem;
     color: var(--electric-purple);
     transition: transform var(--transition-smooth);
 }
 
 .value-title {
     font-family: var(--font-display);
-    font-size: 1.35rem;
+    font-size: 1.2rem;
     font-weight: 700;
-    margin-bottom: 0.75rem;
+    margin-bottom: 0.5rem;
 }
 
 .value-desc {
-    font-size: 0.95rem;
+    font-size: 0.9rem;
     line-height: 1.6;
     color: var(--text-secondary);
 }
